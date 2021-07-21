@@ -1,0 +1,6 @@
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\obj\Debug\prog2_feleves.csprojAssemblyReference.cache
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\bin\Debug\prog2_feleves.exe.config
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\bin\Debug\prog2_feleves.exe
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\bin\Debug\prog2_feleves.pdb
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\obj\Debug\prog2_feleves.exe
+C:\Users\Máté\source\repos\prog2_feleves\prog2_feleves\obj\Debug\prog2_feleves.pdb
